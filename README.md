@@ -1,3 +1,5 @@
+[Noratetsu's page](https://nora-tetsu.github.io/)
+
 ### Post
 - [Noratetsu Lab](https://noratetsu.blogspot.com/)
   - [のらてつの茶の間](https://nora-tetsu.github.io/Chanoma/)（ミニブログ）
