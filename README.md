@@ -1,20 +1,14 @@
-[Noratetsu's page](https://nora-tetsu.github.io/)
+[Noratetsu House](https://noratetsu.deno.dev/)
 
 ### Post
-- [Noratetsu Lab](https://noratetsu.blogspot.com/)
-  - [のらてつの茶の間](https://nora-tetsu.github.io/Chanoma/)（ミニブログ）
 - [note](https://note.com/noratetsu)
 - [Substack](https://substack.com/profile/97326198-foam_crab)
   - [トンネルChannel](https://tunnellingchannel.substack.com/)
 
 ### SNS
+- [Bluesky @noratetsu.bsky.social](https://bsky.app/profile/noratetsu.bsky.social)
 - [Twitter @Foam_Crab](https://twitter.com/Foam_Crab)
-  - [知的好奇心向上委員会 コミュニティ](https://twitter.com/i/communities/1496761082442297347)
 - [Mastodon @noratetsu@fedibird.com](https://fedibird.com/@noratetsu)
-
-### Scrapbox
-- [Noratetsu's Room（のらてつ研究所）](https://scrapbox.io/noratetsu/)
-- [のらてつコーディング](https://scrapbox.io/noratetsuc/)
 
 <!--
 ### Hi there 👋
